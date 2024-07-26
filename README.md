@@ -115,18 +115,6 @@ These are the best resources for System Design on the Internet
 - [Redis Open Source Repo](https://github.com/redis/redis)
 - [Redis Architecture](https://medium.com/opstree-technology/redis-cluster-architecture-replication-sharding-and-failover-86871e783ac0)
 
-##
-## Network Protocols
-- [What is HTTP](https://engineering.cred.club/head-of-line-hol-blocking-in-http-1-and-http-2-50b24e9e3372)
-- [QUIC Protocol](https://www.akamai.com/blog/performance/http3-and-quic-past-present-and-future)
-- [TCP Protocol algorithms](https://ee.lbl.gov/papers/congavoid.pdf) (First 10 pages are important)
-- [WebRTC](https://webrtc.github.io/webrtc-org/blog/2012/07/23/a-great-introduction-to-webrtc.html)
-- [WebSockets](https://datatracker.ietf.org/doc/html/rfc6455#section-1.2)
-- [Dynamic Source Routing using QUIC](https://fb.watch/fSEbI4KHlA/)
-
-##
-## Chess Engine Design
-- [Chess Engine Building](https://www.youtube.com/watch?v=U4ogK0MIzqk)
 
 ##
 ## Subscription Management System
@@ -172,12 +160,6 @@ These are the best resources for System Design on the Internet
 - [LinkedIn Logging Usecases](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Uber Trillions of indexes in LedgerStore](https://www.uber.com/en-IN/blog/how-ledgerstore-supports-trillions-of-indexes)
 
-##
-## Containers and Docker
-
-- [Facebook Twine Containerization](https://engineering.fb.com/developer-tools/zookeeper-twine/)
-- [CloudFlare Containerization](https://blog.cloudflare.com/cloud-computing-without-containers/)
-- [Docker Architecture](https://docs.docker.com/get-started/overview/#docker-architecture)
 
 ##
 ## Capacity Estimation
