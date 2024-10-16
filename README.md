@@ -67,19 +67,6 @@ These are the best resources for System Design on the Internet
 - [Nginx Service Mesh](https://www.nginx.com/learn/service-mesh/)
 - [Meta Async Task Computing](https://engineering.fb.com/2023/01/31/production-engineering/meta-asynchronous-computing/)
 
-## Message Queue Antipattern
-- [DB as queue Antipattern](https://en.wikipedia.org/wiki/Database-as-IPC)
-- [Using a database as a message queue](https://softwareengineering.stackexchange.com/questions/231410/why-database-as-queue-so-bad)
-- [Anti-pattern of DB as a queue](http://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html)
-- [Drawbacks of DB as a queue](https://www.cloudamqp.com/blog/why-is-a-database-not-the-right-tool-for-a-queue-based-system.html)
-
-##
-## Service Mesh
-- [Kubernetes Service Mesh](https://akomljen.com/kubernetes-service-mesh/)
-- [Kubernetes Sidecar](https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery)
-- [Service Mesh](https://www.weave.works/blog/introduction-to-service-meshes-on-kubernetes-and-progressive-delivery)
-- [NginX Service Mesh](https://www.nginx.com/learn/service-mesh/)
-- [Data Plane and Control Plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
 
 ##
 ## Practical System Design
